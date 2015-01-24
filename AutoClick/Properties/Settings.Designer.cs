@@ -25,7 +25,7 @@ namespace AutoClick.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Ctrl+F2")]
+        [global::System.Configuration.DefaultSettingValueAttribute("LeftCtrl+F2")]
         public string StartOn {
             get {
                 return ((string)(this["StartOn"]));
@@ -37,7 +37,7 @@ namespace AutoClick.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Ctrl+F3")]
+        [global::System.Configuration.DefaultSettingValueAttribute("LeftCtrl+F3")]
         public string StopOn {
             get {
                 return ((string)(this["StopOn"]));
